@@ -4,7 +4,8 @@ Quelles sont les deux méthodes HTTP utilisables dans un formulaire en PHP ?
     GET et POST
 
 Quelle est la différence entre include, include_once, require et require_once ?
-
+    include = execute
+    require = gere les erreur en stoppant le script
 
 Quelle fonction devez-vous appeler pour utiliser les sessions dans votre application ?
     session_start()
